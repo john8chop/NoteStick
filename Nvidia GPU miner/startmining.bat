@@ -1,0 +1,1 @@
+ccminer-x64 -a scrypt -o stratum+tcp://farm.cryptocrop.net:3433 -u NadBEZQ263w9JX5qdGxTQDe9KgpfGsxg4b -p d=10 pause

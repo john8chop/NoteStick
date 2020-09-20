@@ -1,0 +1,27 @@
+Johnny's Law states
+"If It can Mine it Will Mine"
+
+Please do not directly open the note wallet but instead use the .bat file included
+
+Your antivirus may not like these files, make sure to allow it through or temporarily disable your AV while mining.
+
+
+CPU and GPU mining will not make you Note rich quick but its a good way to support the network and earn a few extra Note. all of the files here are set to mine to my pool at farm.cryptocrop.net which charges a flat 1% fee. if youd like to change that please contact me on twitter/Note/Discord and ill help you.
+
+
+to mine on your CPU select that folder and double click startmining.bat
+
+to mine with your nvidia GPU select the Nividia folder and double click startmining.bat
+
+to mine with your AMD GPU select AMD GPU and double click startmining.bat
+
+to mine with your Moonlander 2 select the moonlander file double click startmining.bat. there are three mining files with your moonlander. they control the clock speed. I would start with the medium miner and if youre feeling brave try the high file. if it slows down or gets too many rejected shares, move down to medium or to conservative. 
+
+The wallet on this USB stick is set in each miner to receive the mining rewards. to back up your wallet onto your main computer simply copy the wallet.dat file to a secure location on your hard drive.
+
+
+If you are having issues, please contact me on Discord at https://discord.gg/xRxZWSU or on twitter @john8chop
+
+
+
+Happy mining!
